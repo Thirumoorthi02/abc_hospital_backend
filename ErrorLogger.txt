@@ -1,0 +1,131 @@
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: No Slot details found
+    at Object.service.getSlotDetails (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:41:27
+Mon Mar 01 2021 - TypeError: Cannot destructure property 'slotDetails' of '(intermediate value)' as it is null.
+    at Object.model.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\model\patient.js:64:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:39:18)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - TypeError: Cannot destructure property 'slotDetails' of '(intermediate value)' as it is null.
+    at Object.model.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\model\patient.js:64:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:39:18)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - TypeError: Cannot destructure property 'slotDetails' of '(intermediate value)' as it is null.
+    at Object.model.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\model\patient.js:64:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:39:18)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: No Slot details found
+    at Object.service.getSlotDetails (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:41:27
+Mon Mar 01 2021 - Error: No Slot details found
+    at Object.service.getSlotDetails (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:41:27
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: No Slot details found
+    at Object.service.getSlotDetails (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:41:27
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: New Slot cannot be added
+    at Object.service.createSlot (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:58:20
+Mon Mar 01 2021 - Error: No Slot details found
+    at Object.service.getSlotDetails (C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\service\patients.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\Thiru\Downloads\KGISL_Assignment\abcbackend\src\routes\routing.js:41:27

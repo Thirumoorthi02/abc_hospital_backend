@@ -1,0 +1,178 @@
+[
+    {
+        "appointmentDate" : "01-03-2021",
+        "slotDetails" : [
+            {
+                "slotId": 1001,
+                "fromTime" : {
+                    "hours": "17",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "18",
+                    "minutes": "00"
+                },
+                "timing" : "Evening",
+                "booked" : true
+            },
+            {
+                "slotId": 1002,
+                "fromTime" : {
+                    "hours": "18",
+                    "minutes": "00"
+                },
+                "toTime" : {
+                    "hours": "18",
+                    "minutes": "30"
+                },
+                "timing" : "Evening",
+                "booked" : false
+            },
+            {
+                "slotId": 1003,
+                "fromTime" : {
+                    "hours": "09",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "10",
+                    "minutes": "00"
+                },
+                "timing" : "Morning",
+                "booked" : true
+            },
+            {
+                "slotId": 1004,
+                "fromTime" : {
+                    "hours": "18",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "19",
+                    "minutes": "00"
+                },
+                "timing" : "Evening",
+                "booked" : false
+            },
+            {
+                "slotId": 1005,
+                "fromTime" : {
+                    "hours": "11",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "12",
+                    "minutes": "00"
+                },
+                "timing" : "Morning",
+                "booked" : true
+            },
+            {
+                "slotId": 1006,
+                "fromTime" : {
+                    "hours": "11",
+                    "minutes": "00"
+                },
+                "toTime" : {
+                    "hours": "11",
+                    "minutes": "30"
+                },
+                "timing" : "Morning",
+                "booked" : false
+            }
+            
+        ]
+    },
+    {
+        "appointmentDate" : "02-03-2021",
+        "slotDetails" : [
+            {
+                "slotId": 1007,
+                "fromTime" : {
+                    "hours": "18",
+                    "minutes": "00"
+                },
+                "toTime" : {
+                    "hours": "18",
+                    "minutes": "30"
+                },
+                "timing" : "Evening",
+                "booked" : true
+                
+            },
+            {
+                "slotId": 1008,
+                "fromTime" : {
+                    "hours": "17",
+                    "minutes": "00"
+                },
+                "toTime" : {
+                    "hours": "17",
+                    "minutes": "30"
+                },
+                "timing" : "Evening",
+                "booked" : false
+            },
+            {
+                "slotId": 1009,
+                "fromTime" : {
+                    "hours": "10",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "11",
+                    "minutes": "00"
+                },
+                "timing" : "Morning",
+                "booked" : true
+                
+            },
+            {
+                "slotId": 1010,
+                "fromTime" : {
+                    "hours": "11",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "12",
+                    "minutes": "00"
+                },
+                "timing" : "Morning",
+                "booked" : false
+            }
+            
+        ]
+    },
+    {
+        "appointmentDate" : "03-03-2021",
+        "slotDetails" : [
+            {
+                "slotId": 1011,
+                "fromTime" : {
+                    "hours": "17",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "18",
+                    "minutes": "00"
+                },
+                "timing" : "Evening",
+                "booked" : true
+            },
+            {
+                "slotId": 1012,
+                "fromTime" : {
+                    "hours": "09",
+                    "minutes": "30"
+                },
+                "toTime" : {
+                    "hours": "10",
+                    "minutes": "00"
+                },
+                "timing" : "Morning",
+                "booked" : false
+            }
+        ]
+    }
+   
+]

@@ -1,0 +1,194 @@
+[
+    {
+    "appointmentDate" : "01-03-2021",
+    "patientDetails" :[
+    {
+        "patientName": "alex",
+        "contact": "1234567890",      
+        "slotId" : 1001,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "17",
+            "minutes": "30"
+        },
+        "toTime" : {
+            "hours": "18",
+            "minutes": "00"
+        }
+    },
+    {
+        "patientName": "alex",
+        "contact": "1234567890",
+        "slotId" : 1002,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "18",
+            "minutes": "00"
+        },
+        "toTime" : {
+            "hours": "18",
+            "minutes": "30"
+        }
+    },
+    {
+        "patientName": "alex",
+        "contact": "1234567890",
+        "slotId" : 1003,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "09",
+            "minutes": "30"
+        },
+        "toTime" : {
+            "hours": "10",
+            "minutes": "00"
+        }
+    },
+    {
+        "patientName": "alex",
+        "contact": "1234567890",
+        "slotId" : 1004,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "18",
+            "minutes": "30"
+        },
+        "toTime" : {
+            "hours": "19",
+            "minutes": "00"
+        }
+    },
+    {
+        "patientName": "alex",
+        "contact": "1234567890",
+        "slotId" : 1005,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "11",
+            "minutes": "30"
+        },
+        "toTime" : {
+            "hours": "12",
+            "minutes": "00"
+        }
+    },
+    {
+        "patientName": "alex",
+        "contact": "1234567890",
+        "slotId" : 1006,
+        "gender" : "Male",
+        "age": 45,
+        "fromTime" : {
+            "hours": "11",
+            "minutes": "00"
+        },
+        "toTime" : {
+            "hours": "11",
+            "minutes": "30"
+        }
+    }
+ ]},
+    {
+        "appointmentDate" : "02-03-2021",
+        "patientDetails" :[
+        {
+            "patientName": "alex",
+            "contact": "1234567890",      
+            "slotId" : 1007,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "18",
+                "minutes": "00"
+            },
+            "toTime" : {
+                "hours": "18",
+                "minutes": "30"
+            }
+        },
+        {
+            "patientName": "alex",
+            "contact": "1234567890",
+            "slotId" : 1008,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "17",
+                "minutes": "00"
+            },
+            "toTime" : {
+                "hours": "17",
+                "minutes": "30"
+            }
+        },
+        {
+            "patientName": "alex",
+            "contact": "1234567890",
+            "slotId" : 1009,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "10",
+                "minutes": "30"
+            },
+            "toTime" : {
+                "hours": "11",
+                "minutes": "00"
+            }
+        },
+        {
+            "patientName": "alex",
+            "contact": "1234567890",
+            "slotId" : 1010,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "11",
+                "minutes": "30"
+            },
+            "toTime" : {
+                "hours": "12",
+                "minutes": "00"
+            }
+        }
+ ]},
+    {
+        "appointmentDate" : "03-03-2021",
+        "slotDetails" :[
+        {
+            "patientName": "alex",
+            "contact": "1234567890",      
+            "slotId" : 1011,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "17",
+                "minutes": "30"
+            },
+            "toTime" : {
+                "hours": "18",
+                "minutes": "00"
+            }
+        },
+        {
+            "patientName": "alex",
+            "contact": "1234567890",
+            "slotId" : 1012,
+            "gender" : "Male",
+            "age": 45,
+            "fromTime" : {
+                "hours": "09",
+                "minutes": "30"
+            },
+            "toTime" : {
+                "hours": "10",
+                "minutes": "00"
+            }
+        }
+    ]}
+]
